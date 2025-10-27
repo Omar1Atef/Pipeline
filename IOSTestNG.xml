@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
 
     <listeners>
-        <listener class-name="Utils.Listeners.Listeners"/>
+        <listener class-name="TestUtils.Listeners.Listeners"/>
     </listeners>
 
     <test name="End to End IOS Tests">

@@ -75,7 +75,7 @@
                     <version>3.5.3</version>
                     <configuration>
                         <suiteXmlFiles>
-                            <suiteXmlFile>AppiumTestNG.xml</suiteXmlFile>
+                            <suiteXmlFile>AndroidTestNG.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
